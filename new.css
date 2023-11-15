@@ -110,14 +110,15 @@ nav .menu {
   color: black;
 }
 .img {
-  background: url("G:/hh/IMG_9683.JPG") no-repeat;
+  background: url("/media/nashon/SHON/hh/IMG_9683.JPG") no-repeat;
   width: 100%;
   height: 100vh;
   background-size: cover;
   background-position: center;
   position: relative;
-  opacity: 0.7;
-  object-fit: cover;
+  opacity: 0.5;
+  object-fit: ;
+  overflow: hidden;
 }
 .features {
     display: flex;
